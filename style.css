@@ -1,0 +1,37 @@
+div {
+  float: left;
+  margin: 5px;
+  text-align: center;
+}
+
+.columna {
+  width: 220px;
+  height: 100vh;
+}
+
+.tipo-1 {
+  height: 200px;
+  width: 200px;
+}
+
+.tipo-2 {
+  height: 50px;
+  width: 200px;
+}
+
+.tipo-3 {
+  height: 250px;
+  width: 200px;
+}
+
+.border-red {
+  border: solid 10px red;
+}
+
+.border-green {
+  border: solid 10px green;
+}
+
+.border-blue {
+  border: solid 10px blue;
+}
