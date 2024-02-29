@@ -1,0 +1,49 @@
+div {
+  float: left;
+  margin: 5px;
+  text-align: center;
+}
+
+h1{
+  color: forestgreen;
+}
+
+h2{
+  color: #008080;
+}
+
+p{
+  color: rgb(70, 130, 180)
+}
+
+.columna {
+  width: 220px;
+  height: 100vh;
+}
+
+.tipo-1 {
+  height: 210px;
+  width: 200px;
+}
+
+.tipo-2 {
+  height: 270px;
+  width: 200px;
+}
+
+.tipo-3 {
+  height: 300px;
+  width: 200px;
+}
+
+.border-red {
+  border: solid 10px red;
+}
+
+.border-green {
+  border: solid 10px green;
+}
+
+.border-blue {
+  border: solid 10px blue;
+}
