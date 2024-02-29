@@ -1,0 +1,45 @@
+header{
+    width: 100%;
+    background-color: bisque;
+    margin: 10px;
+}
+
+header h1{
+    text-transform: uppercase;
+}
+
+aside{
+    background-color: lightcoral;
+    height: 820px;
+    width: 300px;
+    position: relative;
+    float: left;
+    margin: 10px;
+}
+
+main{
+    width: 1560px;
+    height: 700px;
+    background-color: lightgreen;
+    margin: 10px;
+    float: right;
+}
+
+footer{
+    width: 1560px;
+    height: 100px;
+    background-color: lightskyblue;
+    margin: 10px;
+    float: right;
+}
+
+img{
+    display: block;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
